@@ -144,5 +144,9 @@ For questions about this project, please create an issue in the GitHub repositor
 
 ---
 
-**Live Demo**: [Your Netlify URL will go here]
-**GitHub Repository**: [Your GitHub URL will go here]
+**Live Demo**: https://paradise-nursery-app.netlify.app
+**GitHub Repository**: https://github.com/yourusername/paradise-nursery-app
+
+## 🌐 Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/paradise-nursery-app/deploys)
